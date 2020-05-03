@@ -12,11 +12,11 @@
 }
 
 @keyframes runningDog {
-    0% {left: 1000px; top: 200px;font-size: 15px; font-family: Wingdings;}
-    20% {left: 400px; top: 200px; font-size: 30px; font-family: "Yu Gothic UI Semilight";}
-    40% {left: 400px; top: 400px; font-size: 35px; font-family: Arial;}
-    60% {left: 100px; top: 400px; font-size: 50px; font-family: revert;}
-    80% {left: 1000px; top:200px; font-size: 15px; font-family: Haettenschweiler;}
+    0% {left: 1000px; top: 200px;font-size: 15px; font-family: "Book Antiqua";}
+    20% {left: 400px; top: 200px; font-size: 20px; font-family: "Bodoni MT Condensed";}
+    40% {left: 400px; top: 400px; font-size: 25px; font-family: "Franklin Gothic Book"}
+    60% {left: 100px; top: 400px; font-size: 25px; font-family: "Fira Code";}
+    80% {left: 1000px; top:200px; font-size: 10px; font-family: "Lucida Sans Unicode";}
 
 
 }
@@ -47,17 +47,17 @@
     height: 20px;
 
 
-    animation-name: runningbone;
+    animation-name: runningBone;
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
 
-@keyframes runningbone {
-    0% {left: 500px; top: 200px;font-size: 15px; font-family: Wingdings;}
-    20% {left: 200px; top: 100px; font-size: 30px; font-family: "Yu Gothic UI Semilight";}
-    40% {left: 200px; top: 200px; font-size: 35px; font-family: Arial;}
-    60% {left: 40px; top: 200px; font-size: 50px; font-family: revert;}
-    80% {left: 500px; top:100px; font-size: 15px; font-family: Haettenschweiler;}
+@keyframes runningBone {
+    0% {left: 500px; top: 200px;font-size: 15px; font-family: Algerian;}
+    20% {left: 200px; top: 100px; font-size: 30px; font-family: "Britannic Bold";}
+    40% {left: 200px; top: 200px; font-size: 35px; font-family: Broadway;}
+    60% {left: 40px; top: 200px; font-size: 50px; font-family: "Bookshelf Symbol 7";}
+    80% {left: 500px; top:100px; font-size: 15px; font-family: "Bookman Old Style"}
 
 
 }
